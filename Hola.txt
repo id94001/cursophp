@@ -1,1 +1,4 @@
 Curso PHP
+1. Run the IDE and evalutate for free.
+2. Click IDE menu "Configure" or "Help" -> "Edit Custom VM Options..."
+3. Append "-javaagent:/absolute/path/to/jetbrains-agent.jar" to end line.
